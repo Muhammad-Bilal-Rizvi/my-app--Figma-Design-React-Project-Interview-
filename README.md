@@ -1,3 +1,9 @@
+# Deployed Project Link
+  http://stexity-app.surge.sh/
+
+# Figma Design Link
+  https://www.figma.com/file/rJ105pXXdlkfuG59OANQJk/Untitled?type=design&node-id=0%3A1&t=ovsPwSmi8lRvW9B4-1
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
